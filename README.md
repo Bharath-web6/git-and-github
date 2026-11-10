@@ -1,2 +1,2 @@
 # git-and-github
-hello world from sigma student 
+hello world from sigma and delta student
